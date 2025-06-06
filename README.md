@@ -1,6 +1,6 @@
-# 🔖 LinkedIn Job Tracker – Chrome Extension
+# 🔖 LinkedIn Job Tracker :- Chrome Extension
 
-Track your LinkedIn job applications directly while browsing. Mark jobs as **Applied** or **Referred**, and view or export your job history — all in a simple, privacy-first Chrome Extension.
+Track your LinkedIn job applications directly while browsing. Mark jobs as **Applied** or **Referred**, and view or export your job history, all in a simple, privacy-first Chrome Extension.
 
 ![screenshot](assets/demo.gif)
 
@@ -56,4 +56,4 @@ This extension uses **Manifest V3**, which blocks inline scripts.
 
 4. Click Load unpacked
 
-## Now visit LinkedIn Jobs — and start tracking!
+## Now visit LinkedIn Jobs, and start tracking!
