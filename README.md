@@ -2,7 +2,7 @@
 
 Track your LinkedIn job applications directly while browsing. Mark jobs as **Applied** or **Referred**, and view or export your job history — all in a simple, privacy-first Chrome Extension.
 
-![screenshot](demo-screenshot.png) <!-- You can replace or remove this line once you add your screenshot -->
+![screenshot](assets/demo.gif)
 
 ---
 
